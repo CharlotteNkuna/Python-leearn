@@ -1,3 +1,5 @@
+#MANIPULATING STRINGS
+
 #Tracking individual letters
 name = "Python"
 

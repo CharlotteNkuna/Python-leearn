@@ -1,3 +1,5 @@
+#Manipulating strings
+
 password = input("Enter your password: ")
 password_space = password.strip()
 
